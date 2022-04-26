@@ -36,7 +36,6 @@
 
 <Br>
 <hr>
-<Br>
 <h1>Some of my Projects! </h1>
 <Br>
   <h3>Web Development</h3>
