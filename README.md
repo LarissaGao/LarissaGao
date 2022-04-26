@@ -3,10 +3,8 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
-<hr>
+
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Mingyue (Larissa) Gao<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
-<h1>About Me! </h1>
 
 - 🏫: I am a graduate student pursuing a degree in Data Journalism with a bachelor's degree in multimedia production.
 - 🔭: I’m currently working on many small ML projects.
@@ -68,6 +66,8 @@
   <h3>Web Development</h3>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Mental-Health-Web-Development&show_owner=true)](https://github.com/LarissaGao/Mental-Health-Web-Development)
+  
+  <hr>
 
 <h1>Thank You!  </h1>
 <Br>
