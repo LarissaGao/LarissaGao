@@ -46,6 +46,7 @@
   <h3>Data Analytics/Machine Learning</h3>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Butterfly-Identification&show_owner=true)](https://github.com/LarissaGao/Butterfly-Identification)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Survival-Prediction&show_owner=true)](https://github.com/LarissaGao/Survival-Prediction)
   
-<h1>Thank You! 🤵 </h1>
+<h1>Thank You!  </h1>
 <Br>
