@@ -40,11 +40,12 @@
 <h1>Some of my Projects! </h1>
 <Br>
   <h3>Web Development</h3>
-  
-[![Mental Health/Mental Disorders](https://github.com/LarissaGao/Mental-Health-Web-Development)](https://github.com/LarissaGao/Mental-Health-Web-Development)
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Mental-Health-Web-Development&show_owner=true)](https://github.com/LarissaGao/Mental-Health-Web-Development)
+
   <h3>Data Analytics/Machine Learning</h3>
-[![Butterfly Identification](https://github.com/LarissaGao/Butterfly-Identification)](https://github.com/LarissaGao/Butterfly-Identification)
-<Br>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Butterfly-Identification&show_owner=true)](https://github.com/LarissaGao/Butterfly-Identification)
   
 <h1>Thank You! 🤵 </h1>
 <Br>
