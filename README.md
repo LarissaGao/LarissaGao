@@ -15,20 +15,9 @@
 - ⚡  Fun fact: I like hiking and diving.
 <hr>
 <Br>
-<h1 align="center">Skills I have! </h1>
-<Br>
-  
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
-  
-<Br>
-<hr>
-<Br>
   
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<h1>Tools I use! </h1>
+<h1>Skills and Tools! </h1>
 <Br>
   
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
@@ -77,6 +66,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Crystal-Structure-Classification&show_owner=true)](https://github.com/LarissaGao/Crystal-Structure-Classification)
   
   <h3>Web Development</h3>
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Mental-Health-Web-Development&show_owner=true)](https://github.com/LarissaGao/Mental-Health-Web-Development)
 
 <h1>Thank You!  </h1>
