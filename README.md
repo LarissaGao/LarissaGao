@@ -39,9 +39,11 @@
 <Br>
 <h1>Some of my Projects! </h1>
 <Br>
+  <h3>Web Development</h3>
   
-[![Mental-Health-Website](https://larissagao.github.io/Mental-Health-Web-Development/index.html)](https://larissagao.github.io/Mental-Health-Web-Development/index.html)
-
+[![Mental Health/Mental Disorders](https://github.com/LarissaGao/Mental-Health-Web-Development)](https://github.com/LarissaGao/Mental-Health-Web-Development)
+  <h3>Data Analytics/Machine Learning</h3>
+[![Butterfly Identification](https://github.com/LarissaGao/Butterfly-Identification)](https://github.com/LarissaGao/Butterfly-Identification)
 <Br>
   
 <h1>Thank You! 🤵 </h1>
