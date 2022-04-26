@@ -26,7 +26,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Tools I use! 🛠️</h1>
+<h1>Tools I use! </h1>
 <Br>
  
 |![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
@@ -37,7 +37,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Some of my Projects! 🎨</h1>
+<h1>Some of my Projects! </h1>
 <Br>
   
 [![Mental-Health-Website](https://larissagao.github.io/Mental-Health-Web-Development/index.html)](https://larissagao.github.io/Mental-Health-Web-Development/index.html)
