@@ -10,7 +10,7 @@
 
 - 🏫: I am a graduate student pursuing a degree in Data Journalism with a bachelor's degree in multimedia production.
 - 🔭: I’m currently working on many small ML projects.
-- 💬: Ask me about Web Development, Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 💬: Ask me about Software Engineering, Data Analysis, Visualization, Machine Learning algorithms and Web Design. 📊📈🤖🧠
 - 😄  Pronouns: She/Her
 - ⚡  Fun fact: I like hiking and diving.
 <hr>
@@ -38,14 +38,15 @@
 <hr>
 <h1>Some of my Projects! </h1>
 <Br>
-  <h3>Web Development</h3>
-    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Mental-Health-Web-Development&show_owner=true)](https://github.com/LarissaGao/Mental-Health-Web-Development)
 
   <h3>Data Analytics/Machine Learning</h3>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Butterfly-Identification&show_owner=true)](https://github.com/LarissaGao/Butterfly-Identification)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Survival-Prediction&show_owner=true)](https://github.com/LarissaGao/Survival-Prediction)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Crystal-Structure-Classification&show_owner=true)](https://github.com/LarissaGao/Crystal-Structure-Classification)
+  
+  <h3>Web Development</h3>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaGao&repo=Mental-Health-Web-Development&show_owner=true)](https://github.com/LarissaGao/Mental-Health-Web-Development)
+
 <h1>Thank You!  </h1>
 <Br>
