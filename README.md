@@ -8,7 +8,7 @@
 <Br>
 <h1>About Me! </h1>
 
-- 🏫: I am a master student pursuing a degree in Data Journalism with a bachelor's degree in multimedia production.
+- 🏫: I am a graduate student pursuing a degree in Data Journalism with a bachelor's degree in multimedia production.
 - 🔭: I’m currently working on many small ML projects.
 - 💬: Ask me about Web Development, Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
 - 😄  Pronouns: She/Her
