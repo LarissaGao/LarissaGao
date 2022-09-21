@@ -6,9 +6,9 @@
 
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Mingyue (Larissa) Gao<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
-- 🏫: I am a graduate student pursuing a degree in Data Journalism with a bachelor's degree in multimedia production.
+- 🏫: I am a postgraduate student pursuing a degree in Journalism with a bachelor's degree in multimedia production. I enrolled in many courses in the data journalism field. 
 - 🔭: I’m currently working on many small ML projects.
-- 💬: Ask me about Software Engineering, Data Analysis, Visualization, Machine Learning algorithms and Web Design. 📊📈🤖🧠
+- 💬: Ask me about: Data Analysis, Visualization and Web Design. 📊📈🤖🧠
 - 😄  Pronouns: She/Her
 - ⚡  Fun fact: I like hiking and diving.
 <hr>
